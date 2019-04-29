@@ -9,7 +9,7 @@ decryption only with key
 0.5 for menu
 1 comments
 7.75 total
-
+LOWER CASE FUNCTION IS INCLUDED BECAUSE IM LAZY WITH TYPING TEST TEXT
 *******************************************************************************/
 
 /*****************************************************************************
